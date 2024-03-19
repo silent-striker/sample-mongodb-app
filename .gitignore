@@ -1,0 +1,6 @@
+.env
+node_modules
+screenshots
+*.docx
+*.pdf
+.DS_Store
